@@ -45,3 +45,6 @@ Without this Unity will produce a warning telling you your code was not included
 }
 ```
 The root folder of your package should contain a file called package.json with contents like the above.
+
+
+Todo: versioning, how does that work?
