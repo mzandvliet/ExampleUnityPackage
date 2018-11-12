@@ -1,6 +1,6 @@
 To reference this package in your unity project, add
 
-"com.ramjet.common": "file:../../../_packages/ramjet/com.ramjet.common",
+"com.ramjet.common": "file:../../_packages/ramjet/com.ramjet.common",
 
 to your project's package manifest.json file.
 
