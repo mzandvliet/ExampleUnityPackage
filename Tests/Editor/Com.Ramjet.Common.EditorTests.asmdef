@@ -1,0 +1,16 @@
+{
+    "name": "Com.Ramjet.Common.EditorTests",
+    "references": [
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Com.Ramjet.Common"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Com.Ramjet.Common",
+    "references": [
+           "Unity.Collections",
+           "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
