@@ -4,7 +4,7 @@ To reference this package in your unity project, add
 
 to your project's package manifest.json file.
 
-This assumes the folder structure:
+This assumes you use the following folder structure:
 
 ```
 /unity/_packages/ramjet/com.ramjet.common
