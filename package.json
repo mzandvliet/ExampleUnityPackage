@@ -4,6 +4,7 @@
 	"unity": "2018.2",
 	"description": "Just trying to see how you define a package",
 	"dependencies": {
-        "com.unity.collections": "0.0.9-preview.9"
+		"com.unity.collections": "0.0.9-preview.9",
+		"com.unity.mathematics": "0.0.12"
 	}
 }
