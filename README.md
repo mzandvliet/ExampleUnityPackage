@@ -6,17 +6,14 @@ to your project's package manifest.json file.
 
 This assumes the folder structure:
 
+```
 /unity/_packages/ramjet/com.ramjet.common
-
 /unity/projectA/Assets/
-
 /unity/projectA/Packages/manifest.json
-
 /unity/projectB/Assets/
-
 /unity/projectB/Packages/manifest.json
-
 etc.
+```
 
 
 ## Prerequistes
